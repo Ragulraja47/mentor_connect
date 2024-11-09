@@ -29,10 +29,10 @@
                     <a class="nav-toggler waves-effect waves-light d-block d-md-none" href="javascript:void(0)"><i class="ti-menu ti-close"></i></a>
                     <a class="navbar-brand" href="index.html">
                         <b class="logo-icon p-l-10" style="padding-left:0px; border-left:0px;">
-                            <img src="assets/images/logo-icon.png" alt="homepage" class="light-logo" />
+                            <img src="assets/images/logo1-icon.png" alt="homepage" class="light-logo" />
                         </b>
                         <span class="logo-text">
-                            <img src="assets/images/logo-text.png" alt="homepage" class="light-logo" />
+                            <img src="assets/images/logo2-text.png" alt="homepage" class="light-logo" />
                         </span>
                     </a>
                     <a class="topbartoggler d-block d-md-none waves-effect waves-light" href="javascript:void(0)" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><i class="ti-more"></i></a>
@@ -62,6 +62,9 @@
                 <nav class="sidebar-nav">
                     <ul id="sidebarnav" class="p-t-30">
                         <li class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link" href="index.html" aria-expanded="false"><i class="mdi mdi-view-dashboard"></i><span class="hide-menu">Dashboard</span></a></li>
+                        <li class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link" href="index.html" aria-expanded="false"><i class="mdi mdi-view-dashboard"></i><span class="hide-menu"></span></a></li>
+                        <li class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link" href="index.html" aria-expanded="false"><i class="mdi mdi-view-dashboard"></i><span class="hide-menu">Dashboard</span></a></li>
+                    
                     </ul>
                 </nav>
             </div>
@@ -87,7 +90,7 @@
                 
             </div>
             <footer class="footer text-center">
-                Develpoed by Technology Innovation Hub
+                Develpoed by Tech Thalavias
             </footer>
         </div>
     </div>
